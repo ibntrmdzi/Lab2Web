@@ -1,4 +1,8 @@
-# lab2_css_dasar.html
+# Lab2Web
+<p> Nama   : Muhamad Rizki Wahyu Saputra</p>
+<p> Nim    : 312410534</p>
+<p> Kelas  : TI.24.A5</p>
+<p> Matkul : Pemograman Web 1</p>
 
 # Langkah-langkah Praktikum
 1. Membuat Dokumen HTML
